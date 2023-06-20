@@ -12,6 +12,7 @@
     <string name="btn_monitor">Status Monitoring</string>
     <string name="btn_restart">Restart</string>
     <string name="btn_setting">Setting</string>
+
     <string name="title_activity_discovery">DiscoveryActivity</string>
     <string name="title_printerlist">Printer List</string>
     <string name="default_target">TCP:192.168.192.168</string>

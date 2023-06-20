@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/title_monitor_note"
+            android:id="@+id/txtNote"
+            android:textColor="#000000" />
+        <Button
+            android:id="@+id/btnStartGetstatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_start_getstatus" />
+
+        <Button
+            android:id="@+id/btnStopGetstatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_stop_getstatus" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/title_status"
+            android:id="@+id/txtStatusMulti"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/edtStatusMulti"
+            android:layout_width="match_parent"
+            android:layout_height="293dp"
+            android:enabled="false"
+            android:focusable="false"
+            android:inputType="none"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

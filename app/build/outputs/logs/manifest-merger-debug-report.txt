@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\2374a71bcefc29b512091583cec958c0\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d4050e45218acb2024e8eca915fc6e6f\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\9878ffa1162d1ebaed8b780a8899801f\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4c8d3412caa3a4ecfc3e008807fb33b5\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4817011e43f9a08cb94a201dce27816a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\f2ed10b6ec412d3e268c75d3c9652021\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\8a7720275dc05da1938b8d9d40cb9e6a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d0e77cb6b1f2f7760815769c3ba97776\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\83b31cff9fb24effa2e7cb50be47b45e\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\300b1f4a503559d6000222da0fa53b7e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\53647cc473594c38ffd81a7e2ac6ae0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\9bb3be4d76efcccd2b2829879ec76041\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c171d81628ddf1f75c4dff64e8a7a7ce\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\80c509c2f2306ffbdd054a6d52b88d57\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\7e96a5f3e5dda8e6c5273ce841cf6c6e\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\33c22089c5df5e5540abaebda82b4e35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6426e386934f5ad93d73457051c076c0\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6cab68c490021ef1e3e2e8e5b13f5790\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\da2283fd38ac1c2e9a9132c907b80bb2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\ef015a5693cc92b8d1aa99811d873955\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3ffb57182d745454e1c8e998fbdedfd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\18709561e4f9d0c821605770bf9dcd6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\41a2070191ff8046c8484bdd8dfa3651\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3f172c6a78cdcc474477948c26dffdc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\5e84f965e8ba041713a97e5120e5eb2a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:5:5-6:70
+	android:usesPermissionFlags
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:6:22-68
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:5:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:10:5-11:50
+	android:maxSdkVersion
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:11:22-48
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:12:5-13:50
+	android:maxSdkVersion
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:13:22-48
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:14:5-15:50
+	android:maxSdkVersion
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:15:22-48
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:16:5-17:50
+	android:maxSdkVersion
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:17:22-48
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:19:5-68:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\2374a71bcefc29b512091583cec958c0\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\2374a71bcefc29b512091583cec958c0\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d4050e45218acb2024e8eca915fc6e6f\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d4050e45218acb2024e8eca915fc6e6f\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\9878ffa1162d1ebaed8b780a8899801f\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\9878ffa1162d1ebaed8b780a8899801f\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\7e96a5f3e5dda8e6c5273ce841cf6c6e\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\7e96a5f3e5dda8e6c5273ce841cf6c6e\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.epson.epos2_printer.SettingActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:24:9-26:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:25:13-44
+activity#com.epson.epos2_printer.PrinterSettingExActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:27:9-29:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:28:13-53
+activity#com.epson.epos2_printer.PrinterSettingActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:30:9-32:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:31:13-51
+activity#com.epson.epos2_printer.FirmwareUpdateActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:33:9-35:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:34:13-51
+activity#com.epson.epos2_printer.MonitorActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:36:9-38:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:37:13-44
+activity#com.epson.epos2_printer.SingleMonitorActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:39:9-41:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:40:13-50
+activity#com.epson.epos2_printer.MultipleMonitorActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:42:9-44:62
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:43:13-52
+activity#com.epson.epos2_printer.MainActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:45:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:47:13-46
+	android:exported
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED+action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:50:13-56:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:51:17-90
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:51:25-87
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:52:17-93
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:52:25-90
+action#android.intent.action.MAIN
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:55:27-74
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:57:13-58:57
+	android:resource
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:58:17-54
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:57:24-86
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:59:13-60:60
+	android:resource
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:60:17-57
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:59:24-89
+activity#com.epson.epos2_printer.DiscoveryActivity
+ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:65:13-46
+	android:name
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml:64:13-46
+uses-sdk
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\2374a71bcefc29b512091583cec958c0\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\2374a71bcefc29b512091583cec958c0\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d4050e45218acb2024e8eca915fc6e6f\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d4050e45218acb2024e8eca915fc6e6f\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\9878ffa1162d1ebaed8b780a8899801f\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\9878ffa1162d1ebaed8b780a8899801f\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4c8d3412caa3a4ecfc3e008807fb33b5\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4c8d3412caa3a4ecfc3e008807fb33b5\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4817011e43f9a08cb94a201dce27816a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\4817011e43f9a08cb94a201dce27816a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\f2ed10b6ec412d3e268c75d3c9652021\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\f2ed10b6ec412d3e268c75d3c9652021\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\8a7720275dc05da1938b8d9d40cb9e6a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\8a7720275dc05da1938b8d9d40cb9e6a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d0e77cb6b1f2f7760815769c3ba97776\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\d0e77cb6b1f2f7760815769c3ba97776\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\83b31cff9fb24effa2e7cb50be47b45e\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\83b31cff9fb24effa2e7cb50be47b45e\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\300b1f4a503559d6000222da0fa53b7e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\300b1f4a503559d6000222da0fa53b7e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\53647cc473594c38ffd81a7e2ac6ae0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\53647cc473594c38ffd81a7e2ac6ae0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\9bb3be4d76efcccd2b2829879ec76041\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\9bb3be4d76efcccd2b2829879ec76041\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c171d81628ddf1f75c4dff64e8a7a7ce\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c171d81628ddf1f75c4dff64e8a7a7ce\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\80c509c2f2306ffbdd054a6d52b88d57\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\80c509c2f2306ffbdd054a6d52b88d57\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\dotwo\.gradle\caches\transforms-3\cb2e3979559d11ad20b93af86a11344b\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\7e96a5f3e5dda8e6c5273ce841cf6c6e\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dotwo\.gradle\caches\transforms-3\7e96a5f3e5dda8e6c5273ce841cf6c6e\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\33c22089c5df5e5540abaebda82b4e35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\33c22089c5df5e5540abaebda82b4e35\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6426e386934f5ad93d73457051c076c0\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6426e386934f5ad93d73457051c076c0\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6cab68c490021ef1e3e2e8e5b13f5790\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\6cab68c490021ef1e3e2e8e5b13f5790\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\da2283fd38ac1c2e9a9132c907b80bb2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\da2283fd38ac1c2e9a9132c907b80bb2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\ef015a5693cc92b8d1aa99811d873955\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\ef015a5693cc92b8d1aa99811d873955\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3ffb57182d745454e1c8e998fbdedfd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3ffb57182d745454e1c8e998fbdedfd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\18709561e4f9d0c821605770bf9dcd6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\18709561e4f9d0c821605770bf9dcd6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\41a2070191ff8046c8484bdd8dfa3651\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\41a2070191ff8046c8484bdd8dfa3651\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3f172c6a78cdcc474477948c26dffdc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\c3f172c6a78cdcc474477948c26dffdc\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\5e84f965e8ba041713a97e5120e5eb2a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dotwo\.gradle\caches\transforms-3\5e84f965e8ba041713a97e5120e5eb2a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dotwo\Downloads\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Android_v2.24.0a\ePOS_SDK_Sample_Android\ePOS_SDK_Sample_Android\ePOS2_Printer\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\070b4ebea79c22bfc53929d96a958cb6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\dotwo\.gradle\caches\transforms-3\3b9c00ca5c2b9d526b018d99922385aa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
